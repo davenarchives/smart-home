@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "smart-home-front-end",
-    "slug": "smart-home-front-end",
+    "name": "SmartHome",
+    "slug": "SmartHome",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/company-logo.svg",
     "scheme": "smarthomefrontend",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -30,7 +30,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "./assets/images/company-logo.svg",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff",
